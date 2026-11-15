@@ -72,3 +72,4 @@ To play offline, download this folder and open `index.html`. Keep the `audio` fo
 
 ## Courtesy of Claude: Prompts
 
+https://github.com/SkyfireDragon22/NASA-Space-Apps-Game-Idea-SYS-Error-404/blob/main/Claude%20Prompts
